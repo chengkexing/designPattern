@@ -8,6 +8,7 @@
     <modules>
         <module>factory-module</module>
         <module>abstract-factory-module</module>
+        <module>static-module</module>
     </modules>
     <packaging>pom</packaging>
     <description>设计模式测试</description>

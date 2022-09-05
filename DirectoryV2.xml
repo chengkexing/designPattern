@@ -4,4 +4,5 @@
      <tree path="/src/main/java/com/etc/pattern/domain/creater/facotry" title="工厂模式"/>
      <tree path="/factory-module" title="创建型-1、工厂模式"/>
      <tree path="/abstract-factory-module" title="创建型-2、抽象工厂模式"/>
+     <tree path="/static-module" title="创建型-3、单例模式"/>
  </trees>

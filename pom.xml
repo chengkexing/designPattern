@@ -7,6 +7,7 @@
     <version>1.0.0</version>
     <modules>
         <module>factory-module</module>
+        <module>abstract-factory-module</module>
     </modules>
     <packaging>pom</packaging>
     <description>设计模式测试</description>
